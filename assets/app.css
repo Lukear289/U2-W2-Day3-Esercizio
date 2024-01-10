@@ -9,9 +9,18 @@ nav img {
 
 li {
   list-style: none;
+  margin-right: 20px;
 }
 
 a {
   text-decoration: none;
   color: #f4f4f4;
+}
+
+.menu {
+  display: flex;
+}
+
+.menu ul {
+  display: flex;
 }/*# sourceMappingURL=app.css.map */
