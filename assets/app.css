@@ -1,0 +1,17 @@
+body {
+  background-color: #640fc5;
+  color: #f4f4f4;
+}
+
+nav img {
+  width: 100px;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: #f4f4f4;
+}/*# sourceMappingURL=app.css.map */
